@@ -33,7 +33,7 @@ Em desenvolvimento por conta própria, através de estudo e projetos pessoais:
 ## 📌 Projetos em destaque
 
 ### [🛡️ Athena Nexus](https://github.com/lyviasilv/athena-nexus)
-Projeto pessoal de modelagem de banco de dados relacional (PostgreSQL), com foco em autenticação, controle de sessões, conformidade com LGPD e auditoria de segurança. Estruturei o DER, o script DDL e os requisitos de segurança do zero.
+Projeto pessoal de modelagem de banco de dados relacional (MySQL), com foco em autenticação, controle de sessões, conformidade com LGPD e auditoria de segurança. Estruturei o DER, o script DDL e os requisitos de segurança do zero.
 
 ---
 

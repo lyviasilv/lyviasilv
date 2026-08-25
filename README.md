@@ -24,7 +24,7 @@ Fora do trabalho, estudo e pratico por conta própria para expandir meu repertó
 Em desenvolvimento por conta própria, através de estudo e projetos pessoais:
 
 - Python
-- SQL / PostgreSQL
+- SQL / MySQL
 - Power BI
 - Tableau
 

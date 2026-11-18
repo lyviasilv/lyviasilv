@@ -34,15 +34,15 @@ Projeto acadêmico em grupo, com desenvolvimento de dashboard interativo para an
 
 **Tecnologia:** Power BI
 
-[Ver projeto](https://github.com/Alinezc/Projeto_Analise_Dados_BI/tree/main/powerbi)
+[Analise de Vendas de Verejo Online](https://github.com/Alinezc/Projeto_Analise_Dados_BI/tree/main/powerbi)
 
 ### Athena Nexus
 
 Projeto de modelagem de banco de dados relacional, com foco em autenticação, segurança e conformidade com a LGPD.
 
-**Tecnologia:** MySQL
+**Tecnologia:** MySQL, SQL
 
-[Ver repositório](https://github.com/lyviasilv/athena-nexus)
+[Projeto - Athena Nexus](https://github.com/lyviasilv/athena-nexus)
 ---
 
 ## 📬 Contato

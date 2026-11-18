@@ -1,14 +1,21 @@
 # Lyvia Silva
 
-**Análise de Dados e Performance** | Jovem Aprendiz na Shopee Brasil — Operações & Data Analytics (OwnFlex)
+**Data & BI**| SQL | Business Intelligence | Performance e Operations
+
+Estudante de Análise e Desenvolvimento de Sistemas e Administração de Empresas, com interesse em análise de dados, BI e eficiência operacional.
 
 ---
+## 💼 Experiência
 
-## 🚀 Sobre mim
+- **Grupo Carrefour | Atacadão** — Estagiária de Operações (atual)
+- **Shopee Brasil** — Jovem Aprendiz | Operações & Data Analytics (anterior)
 
-No dia a dia da operação, trabalho com **monitoramento de performance, dashboards de KPI, melhoria de processos e suporte a decisões orientadas por dados**. É onde aprendo, na prática, como os dados se conectam ao negócio: como cada indicador reflete uma decisão real, e como transformar isso em medidas acionáveis dentro de uma operação dinâmica — que muda de contexto o tempo todo.
+## 🛠️ Tecnologias e Ferramentas
 
-Fora do trabalho, estudo e pratico por conta própria para expandir meu repertório técnico, aplicando esse conhecimento em projetos pessoais de banco de dados e análise.
+- **BI e Dados:** Power BI, Excel, Tableau
+- **Programação:** Python
+- **Banco de Dados:** SQL, MySQL
+- **Ferramentas:** Git, GitHub, VS Code
 
 ---
 
@@ -19,22 +26,23 @@ Fora do trabalho, estudo e pratico por conta própria para expandir meu repertó
 
 ---
 
-## 🛠️ Linguagens & Ferramentas
-
-Em desenvolvimento por conta própria, através de estudo e projetos pessoais:
-
-- Python
-- SQL / MySQL
-- Power BI
-- Tableau
-
----
-
 ## 📌 Projetos em destaque
 
-### [🛡️ Athena Nexus](https://github.com/lyviasilv/athena-nexus)
-Projeto pessoal de modelagem de banco de dados relacional (MySQL), com foco em autenticação, controle de sessões, conformidade com LGPD e auditoria de segurança. Estruturei o DER, o script DDL e os requisitos de segurança do zero.
+### Análise de Vendas em Varejo Online
 
+Projeto acadêmico em grupo, com desenvolvimento de dashboard interativo para análise de vendas no varejo online.
+
+**Tecnologia:** Power BI
+
+[Ver projeto](https://github.com/Alinezc/Projeto_Analise_Dados_BI/tree/main/powerbi)
+
+### Athena Nexus
+
+Projeto de modelagem de banco de dados relacional, com foco em autenticação, segurança e conformidade com a LGPD.
+
+**Tecnologia:** MySQL
+
+[Ver repositório](https://github.com/lyviasilv/athena-nexus)
 ---
 
 ## 📬 Contato

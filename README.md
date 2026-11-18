@@ -40,7 +40,7 @@ Projeto acadêmico em grupo, com desenvolvimento de dashboard interativo para an
 
 Projeto de modelagem de banco de dados relacional, com foco em autenticação, segurança e conformidade com a LGPD.
 
-**Tecnologia:** MySQL, SQL
+**Tecnologia:** MySQL, SQL, Mermaid (DER) + DDL nativo
 
 [Projeto - Athena Nexus](https://github.com/lyviasilv/athena-nexus)
 ---

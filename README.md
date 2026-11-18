@@ -28,6 +28,8 @@ Estudante de Análise e Desenvolvimento de Sistemas e Administração de Empresa
 
 ## 📌 Projetos em destaque
 
+---
+
 # Análise de Vendas em Varejo Online
 
 Projeto acadêmico em grupo, com desenvolvimento de dashboard interativo para análise de vendas no varejo online.
